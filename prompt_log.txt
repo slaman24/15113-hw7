@@ -1,0 +1,11 @@
+I used GitHub Copilot (specifically the Claude Opus 4.6 and Gemini 3 Flash models)
+
+Claude Opus 4.6 (timed out):
+I want to create a Fireboy and Watergirl game in Python with all the same functionality and game mechanics as the original game. For the purpose of this assignment, my professor wants us to prioritize documentation and clarity. He wants us to build from the baseline, and have a good base because I am going to be passing this code onto someone else. This means that I definitely want working code, and that not all features need to be implemented at this time. I want to put a to-do list in the readme of what is left to implement. When you generate the code, if you could emphaszie clarity over cleverness so it is easy for someone to read and pick up from that would be great. Lots of comments labeling sections and explaining deisgn decisions. I already have an assets folder with the Fireboy and Watergirl sprites. The game needs to be in Python, and we can use pygame for the animations.
+
+Switched to Gemini 3 Flash:
+If you could please implement some initial functionality for a Fireboy and Watergirl game with the same functionality and game mechanics. Please prioritize clarity over cleverness in the code. The game should be made in Python using pygame
+
+That looks great! I still have a bit more time to code myself before passing it on to someone else, so maybe I can knock off one of the items on the to-do list. Maybe collectibles?
+
+Yes, if you could apply these changes directly to the files while still priortizing code clarity and documentation, that would be great. Could you also remove this item from the todo list in the readme?

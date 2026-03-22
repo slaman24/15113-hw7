@@ -1,3 +1,5 @@
+I decided to create a Fireboy and Watergirl game. Unfortunately, I was not able to get as much done as I would have liked in the 30 minutes because of a timeout with my prompt. Because of this, I was only able to implement real Fireboy and Watergirl sprites, collectable gems, and one basic level in the allotted time. Because I was not able to get as much done, a created a to-do list for my partner (found below) to help them get started, which included the implementation of hazard tiles, interactive mechanisms, exit doors, level design, and ui/menu system.
+
 # Fireboy and Watergirl Clone (Python/Pygame)
 
 This repository contains a prototype implementation of the popular Fireboy and Watergirl game, developed as part of an assignment for 15113 (HW7). The focus is on clarity, documentation, and building a solid baseline for future developers.
